@@ -200,6 +200,8 @@ for col in final_df.columns:
 
 final_df = final_df.fillna(0)
 
+# Convert all columns to numeric
+final_df = final_df.astype(float)
 # =========================
 # Prediction
 # =========================
