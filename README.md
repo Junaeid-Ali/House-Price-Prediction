@@ -133,11 +133,6 @@ This project is deployed using Streamlit Community Cloud.
 
 ---
 
-# 📷 Dashboard Preview
-
-<img width="100%" alt="dashboard-preview" src="https://static.streamlit.io/examples/dice.jpg">
-
-> Replace this image later with your actual dashboard screenshot.
 
 ---
 
